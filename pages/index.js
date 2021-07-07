@@ -1,5 +1,4 @@
 import styles from '../styles/Home.module.css';
-import 'pure-react-carousel/dist/react-carousel.es.css';
 import 'semantic-ui-css/semantic.min.css';
 import axios from 'axios';
 import moment from 'moment';
